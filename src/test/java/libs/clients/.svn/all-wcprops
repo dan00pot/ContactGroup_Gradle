@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/UC_Messaging/!svn/ver/12699/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients
+END
+AADSWebKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/UC_Messaging/!svn/ver/12646/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients/AADSWebKeywords.java
+END
+SMGR8WebLocators.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/UC_Messaging/!svn/ver/12383/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients/SMGR8WebLocators.java
+END
+SMGR8WebKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/UC_Messaging/!svn/ver/12383/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients/SMGR8WebKeywords.java
+END
+WindowsClientLocators.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/UC_Messaging/!svn/ver/12699/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients/WindowsClientLocators.java
+END
+WindowsClientKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/UC_Messaging/!svn/ver/12699/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients/WindowsClientKeywords.java
+END
+AndroidClientLocators.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/UC_Messaging/!svn/ver/12646/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients/AndroidClientLocators.java
+END
+IOSClientLocators.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/UC_Messaging/!svn/ver/12646/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients/IOSClientLocators.java
+END
+AndroidClientKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/UC_Messaging/!svn/ver/12646/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients/AndroidClientKeywords.java
+END
+AADSWebLocators.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/UC_Messaging/!svn/ver/12646/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients/AADSWebLocators.java
+END
+IOSClientKeywords.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/UC_Messaging/!svn/ver/12678/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/clients/IOSClientKeywords.java
+END

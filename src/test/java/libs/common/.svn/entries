@@ -1,0 +1,54 @@
+10
+
+dir
+12703
+https://192.168.1.45/svn/UC_Messaging/AMM/Automation/Demo_1/AADS_Simple_Framework_Khanh/src/libs/common
+https://192.168.1.45/svn/UC_Messaging
+
+
+
+2019-05-04T04:33:01.868578Z
+12674
+ntkkhanh
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b759c7d1-d042-4a9b-8432-3722bb19c993
+
+DriverManagement.java
+file
+
+
+
+
+2019-05-04T05:51:13.352000Z
+4f2e9adff0c762e15dbb1086420e52f2
+2019-05-04T04:33:01.868578Z
+12674
+ntkkhanh
+has-props
+
+Selenium.java
+file
+
+
+
+
+2019-05-04T05:51:13.346000Z
+6654d5bcacbb498b53a556437dfe554e
+2019-03-22T06:59:56.523740Z
+12383
+ntkkhanh
+has-props
+
